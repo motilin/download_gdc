@@ -1,0 +1,178 @@
+,0
+case_id,fb54458d-c373-46c2-841e-82663e13efaa
+demographic.gender,female
+demographic.year_of_birth,1986
+demographic.year_of_death,2012
+diagnoses.0.primary_diagnosis,Adrenal cortical carcinoma
+files.0.data_format,TXT
+files.0.data_type,Gene Expression Quantification
+files.0.file_id,3539f8e3-2165-458b-8179-f15c39e0edd2
+files.1.data_format,SVS
+files.1.data_type,Slide Image
+files.1.file_id,84e1ddd8-5cab-4fe9-8f22-cedeb20e0b24
+files.10.data_format,VCF
+files.10.data_type,Annotated Somatic Mutation
+files.10.file_id,dd5046df-c55e-40c7-b1a7-62ec9f027670
+files.11.data_format,BCR Biotab
+files.11.data_type,Biospecimen Supplement
+files.11.file_id,9ad06cec-a27f-4093-8773-b857ef200f4b
+files.12.data_format,MAF
+files.12.data_type,Aggregated Somatic Mutation
+files.12.file_id,28164436-36d5-4a5e-8ae5-a55abc216348
+files.13.data_format,SVS
+files.13.data_type,Slide Image
+files.13.file_id,016c271b-9900-4dca-ae79-01a1e7140d8c
+files.14.data_format,BAM
+files.14.data_type,Aligned Reads
+files.14.file_id,b36104e8-3077-4c99-9c2b-5f3def5c9b2d
+files.15.data_format,BCR Biotab
+files.15.data_type,Clinical Supplement
+files.15.file_id,4612e74a-f374-459a-a14f-8cecdb1c14f8
+files.16.data_format,BCR Biotab
+files.16.data_type,Clinical Supplement
+files.16.file_id,4c259f88-b551-4e17-b78f-4c1249b288da
+files.17.data_format,BCR Biotab
+files.17.data_type,Biospecimen Supplement
+files.17.file_id,84f52527-e0e2-447c-a905-3616c41a7e9d
+files.18.data_format,BCR Biotab
+files.18.data_type,Biospecimen Supplement
+files.18.file_id,d03cb5ec-7e3f-450f-9a8e-380bd9e52d10
+files.19.data_format,BCR XML
+files.19.data_type,Clinical Supplement
+files.19.file_id,ea54d970-01b8-4327-a5b3-092b7232e36a
+files.2.data_format,VCF
+files.2.data_type,Annotated Somatic Mutation
+files.2.file_id,078dee62-bfaf-431e-9e0e-74fdc0f6185f
+files.20.data_format,BCR Biotab
+files.20.data_type,Biospecimen Supplement
+files.20.file_id,59a34fdf-f372-4694-bc45-47f412049425
+files.21.data_format,TXT
+files.21.data_type,Gene Expression Quantification
+files.21.file_id,aac9927f-add3-448a-b802-1dbf2f98f9ae
+files.22.data_format,VCF
+files.22.data_type,Raw Simple Somatic Mutation
+files.22.file_id,adec04b4-eb2f-4ab5-8139-011387adf786
+files.23.data_format,TXT
+files.23.data_type,Methylation Beta Value
+files.23.file_id,86250dba-ad87-493a-9ac5-4c147b6e9b69
+files.24.data_format,MAF
+files.24.data_type,Aggregated Somatic Mutation
+files.24.file_id,f8f8aeb9-bd06-49a7-bf80-99751986fb11
+files.25.data_format,BCR Biotab
+files.25.data_type,Biospecimen Supplement
+files.25.file_id,59e14613-6a21-43be-8f0f-15f23e71f3c6
+files.26.data_format,MAF
+files.26.data_type,Aggregated Somatic Mutation
+files.26.file_id,69fdd551-04b7-44b5-b03e-83237e556237
+files.27.data_format,MAF
+files.27.data_type,Aggregated Somatic Mutation
+files.27.file_id,a8b61d25-fac8-459c-ad80-a06c9e71cb7c
+files.28.data_format,VCF
+files.28.data_type,Annotated Somatic Mutation
+files.28.file_id,e80a7585-2f8b-4d39-9559-d1d9c062d860
+files.29.data_format,VCF
+files.29.data_type,Raw Simple Somatic Mutation
+files.29.file_id,d69b6cfa-df27-403f-ad82-3aafac022d0b
+files.3.data_format,VCF
+files.3.data_type,Annotated Somatic Mutation
+files.3.file_id,63dece65-5f99-48db-bbf8-84eb652f3167
+files.30.data_format,MAF
+files.30.data_type,Masked Somatic Mutation
+files.30.file_id,422bff06-f1b2-4768-be4a-8bcb82644ce2
+files.31.data_format,BAM
+files.31.data_type,Aligned Reads
+files.31.file_id,b7d579fd-d259-436c-883d-eb9f06582f66
+files.32.data_format,BCR Biotab
+files.32.data_type,Clinical Supplement
+files.32.file_id,909f0719-b165-4beb-9fb3-f21aff071469
+files.33.data_format,TXT
+files.33.data_type,Gene Expression Quantification
+files.33.file_id,1827f5eb-8f00-4acc-9bfa-b75fd431a960
+files.34.data_format,BCR Biotab
+files.34.data_type,Clinical Supplement
+files.34.file_id,490dfbb2-42e0-41da-8c04-a6f307b27e5c
+files.35.data_format,MAF
+files.35.data_type,Masked Somatic Mutation
+files.35.file_id,747f92d2-3208-49cc-a564-3c5d0a2697ef
+files.36.data_format,MAF
+files.36.data_type,Masked Somatic Mutation
+files.36.file_id,81ac2c46-37db-4dcd-923a-061a7ae626a3
+files.37.data_format,TXT
+files.37.data_type,Copy Number Segment
+files.37.file_id,eea89027-8a66-46b2-b993-b3f94f7551d7
+files.38.data_format,BCR Biotab
+files.38.data_type,Clinical Supplement
+files.38.file_id,6a22c17f-3963-4a6f-a03d-d4fd3fd6309e
+files.39.data_format,BCR Biotab
+files.39.data_type,Biospecimen Supplement
+files.39.file_id,05b8efda-aa93-4c04-8beb-ffc95c062af9
+files.4.data_format,BCR Biotab
+files.4.data_type,Biospecimen Supplement
+files.4.file_id,52a113be-a3d8-40ea-bebe-93e62d91ade6
+files.40.data_format,VCF
+files.40.data_type,Raw Simple Somatic Mutation
+files.40.file_id,29d93348-4ef3-414f-a324-f7333fe963e2
+files.41.data_format,BCR Biotab
+files.41.data_type,Clinical Supplement
+files.41.file_id,2c9512eb-e075-4e45-8ad4-b00048a6d47e
+files.42.data_format,BCR SSF XML
+files.42.data_type,Biospecimen Supplement
+files.42.file_id,b3d64462-51d4-4754-a1ee-3bbb192acd62
+files.43.data_format,TXT
+files.43.data_type,Isoform Expression Quantification
+files.43.file_id,d76210f4-2d57-4335-b02d-bc2732a58624
+files.44.data_format,SVS
+files.44.data_type,Slide Image
+files.44.file_id,3694968a-928b-41fc-8f01-b0877978ee5d
+files.45.data_format,BCR Biotab
+files.45.data_type,Biospecimen Supplement
+files.45.file_id,d86d9ee4-5394-4d9a-8d4b-9b219a2e2ea8
+files.46.data_format,BAM
+files.46.data_type,Aligned Reads
+files.46.file_id,85d5179b-0de6-4050-a26f-c02a02058783
+files.47.data_format,VCF
+files.47.data_type,Raw Simple Somatic Mutation
+files.47.file_id,968a1841-2e25-4009-85ab-5cfaac9cb2a7
+files.48.data_format,TXT
+files.48.data_type,Gene Level Copy Number Scores
+files.48.file_id,09fd05f9-ede6-4dc3-a9cd-f519c3f88b76
+files.49.data_format,TXT
+files.49.data_type,Masked Copy Number Segment
+files.49.file_id,087c3d5a-41e4-4daa-98d7-043f1d60a0db
+files.5.data_format,TXT
+files.5.data_type,Masked Copy Number Segment
+files.5.file_id,60b93a05-1764-4960-9d26-92b14320aed3
+files.50.data_format,BCR XML
+files.50.data_type,Biospecimen Supplement
+files.50.file_id,3640e93d-3e6a-4aa6-9765-55ce195ec514
+files.51.data_format,SVS
+files.51.data_type,Slide Image
+files.51.file_id,64db9787-5ea4-45f7-b19a-c8480baf1d00
+files.52.data_format,SVS
+files.52.data_type,Slide Image
+files.52.file_id,b3899fb2-f82f-468b-8cfa-556e7cdefc2b
+files.53.data_format,BCR Biotab
+files.53.data_type,Biospecimen Supplement
+files.53.file_id,041c5d01-3156-4803-840d-f196e8a77155
+files.54.data_format,TXT
+files.54.data_type,miRNA Expression Quantification
+files.54.file_id,6fa5c99f-7873-47e6-9764-274b343cfb7e
+files.55.data_format,BCR Biotab
+files.55.data_type,Clinical Supplement
+files.55.file_id,88e04b32-4f73-4b6d-aa96-be6769d6ea59
+files.56.data_format,TXT
+files.56.data_type,Copy Number Segment
+files.56.file_id,7b23c3eb-f55d-4f1a-817d-7e6fa0c1f53b
+files.6.data_format,BAM
+files.6.data_type,Aligned Reads
+files.6.file_id,19d9b47d-3ec4-4871-a410-c958f3f9723a
+files.7.data_format,SVS
+files.7.data_type,Slide Image
+files.7.file_id,d15ecd62-3ae5-4ec0-a71d-9903e823d7ae
+files.8.data_format,BCR Biotab
+files.8.data_type,Biospecimen Supplement
+files.8.file_id,3584d028-b901-4c5b-98c9-4dd120b3836f
+files.9.data_format,MAF
+files.9.data_type,Masked Somatic Mutation
+files.9.file_id,9d298cc7-71d2-43f5-835d-d7ef7a43bb11
+id,fb54458d-c373-46c2-841e-82663e13efaa

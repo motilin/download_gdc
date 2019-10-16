@@ -1,0 +1,54 @@
+Choosing patients:
+
+Use the clinicalDrugTable.csv in order to choose patients of interest.
+Patients are represented by their "universal unique identifier" (uuid) which appears in the "bcr_patient_uuid".
+
+
+
+
+
+
+
+
+Downloading patients' metadata:
+
+Run the download_metadata.py file in order to download information about the files associated with the patient.
+First, change the patient_uuid and output_file name as desired:
+
+PATIENT_UUID = 'fb54458d-c373-46c2-841e-82663e13efaa'
+OUTPUT_FILE = 'patient_metadata.csv'
+
+Then, save the python file and run:
+python download_metadata.py
+
+Notice that the fields retrieved are listed under the FIELDS variable.
+A complete list of all the available fields can be found at the following url and added as needed:
+https://docs.gdc.cancer.gov/API/Users_Guide/Appendix_A_Available_Fields/#case-fields
+
+The file_ids retrieved in that way, can be used in order to download the desired files.
+
+
+
+
+
+
+
+Downloading files:
+
+Most files require having a valid token. In order to get it, enter the GDC website at https://portal.gdc.cancer.gov
+and login using the eRA Commons credentials. Then, press on the username and choose Download Token.
+
+Use the ./download_files.py file in order to download a list of files, given their file_ids.
+First, update the paths to the token file and to the output folder:
+
+TOKEN_FILE = './gdc-user-token.txt'
+OUTPUT_DIR = './files'
+
+Then, list the file_ids for the files you wish to download:
+
+FILE_ID_LIST = ['dd5046df-c55e-40c7-b1a7-62ec9f027670',
+        '28164436-36d5-4a5e-8ae5-a55abc216348']
+
+Run the python file:
+
+python download_files.py
